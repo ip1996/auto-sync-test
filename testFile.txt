@@ -1,3 +1,5 @@
 TestFile for testing autosync.
 
 Adding new line.
+
+Conflicting line.

@@ -1,1 +1,3 @@
 TestFile for testing autosync.
+
+Adding new line.

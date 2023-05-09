@@ -2,3 +2,6 @@ TestFile for testing autosync.
 
 
 Test auto sync.
+
+
+Test commit for checking auto-pr.
